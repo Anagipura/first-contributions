@@ -23,6 +23,7 @@
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
 - [Nnange Awong](https://github.com/Nnange) - This is my first open source contribution! Very excited (July 24th 2025)
 - [Aly Mostafa](https://github.com/AliMostafaa) – Halloo, very happy to contribute, this is my first open source contribution! (July 23, 2025)
+- [Elena Dobre](https://github.com/Elena-ID) - Hello! This is my first open source contribution! To many many many more! (July 25, 2025)
 -Sanvi- my first open source contribution!
 - [Victor Reial](https://github.com/VictorLemosR) - Interested in python and rust. Love neovim
 - [Anish Nagubandi](https://github.com/anishnagubandi)-MY WEIRDLY WIBBITY WOBBITY START.
@@ -161,6 +162,7 @@ namaskaram!!this is my first contribution.
 - [Tejasri Masina](https://github.com/TejasriMasina) -My First Contribution
 - [Victor Costantini](https://github.com/vittoriocostantini) - My First Contribution
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
+- [Nandini Gupta](https://github.com/nandinigupta015)-My first contribution,yayy!
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
 - [Elvis Yu](https://github.com/elvis-qq)
@@ -5342,3 +5344,4 @@ asd
 - [Dhuliana Dantas](https://github.com/Dhuliana)
 - [Diego Escalante] (https://github.com/na0kk0) <3
 - [Nawal Mohamed](https://github.com/Nawalm0) - Hello GitHub
+- [Hafsa Ahmad](https://github.com/Hafsah-Ahmad) - why is everyone saying hello mam/sir? ;D
